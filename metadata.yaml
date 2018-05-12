@@ -24,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3328
     wikipedia: http://en.wikipedia.org/wiki/William_Cullen_Bryant
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22406#The-Little-People-of-the-Snow
 gutenberg_bookshelf: Children's Picture Books
 gutenberg_issued: '2007-08-26'
 gutenberg_type: Text
