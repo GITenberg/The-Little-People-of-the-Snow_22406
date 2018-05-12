@@ -1,0 +1,41 @@
+_repo: The-Little-People-of-the-Snow_22406
+_version: 0.1.0
+contributor:
+  engineer:
+    agent_name: Bobbett, Albert
+    alias: Bobbett, Alfred
+    deathdate: 1888
+    gutenberg_agent_id: '25316'
+    url: http://www.gutenberg.org/2009/agents/25316
+  illustrator:
+    agent_name: Fredericks, Alfred
+    gutenberg_agent_id: '25315'
+    url: http://www.gutenberg.org/2009/agents/25315
+covers:
+- cover_type: archival
+  image_path: 22406-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Bryant, William Cullen
+    alias: Bryant, W. C. (William Cullen)
+    birthdate: 1794
+    deathdate: 1878
+    gutenberg_agent_id: '3328'
+    url: http://www.gutenberg.org/2009/agents/3328
+    wikipedia: http://en.wikipedia.org/wiki/William_Cullen_Bryant
+description: ''
+gutenberg_bookshelf: Children's Picture Books
+gutenberg_issued: '2007-08-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22406'
+  lccn: '48040174'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fairy tales'
+- !lcc 'PS'
+title: The Little People of the Snow
+url: http://www.gutenberg.org/ebooks/22406
